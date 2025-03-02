@@ -3,3 +3,5 @@ tensorflow
 pillow
 numpy
 annoy
+tqdm
+pickle-mixin  # Required for pickle module in some cases
